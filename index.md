@@ -5,13 +5,18 @@
   
   <style>
     
-    
+    menu{
+      
+      width: 100%;
+      height: 100%;
+      
+    }
     
   </style>
   
   <script>
     
-    
+    var PageVersion = "1.0.0.0";
     
   </script>
   
@@ -22,16 +27,18 @@
     
     <div id="home">
       
-      <img src="./Images/Home.png">Home Image</img>
+      
       
     </div>
     
     <div id="projects">
       
-      <img src="./Images/Projects.png">Projects Image</img>
+      
       
     </div>
     
   </div>
+  
+  <p>Version du site Web : 1.0.0.0</p>
   
 </body>
